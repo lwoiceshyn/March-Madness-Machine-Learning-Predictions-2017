@@ -12,3 +12,4 @@ The approach involved using a combination of the Massey and Pomeroy datasets, an
 
 ## Final Bracket Prediction
 
+![Alt text](finalbracket.png "Final Bracket Prediction")
